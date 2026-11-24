@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="EMMA">
+  <defs>
+    <filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="1.5" stdDeviation="1.4" flood-color="#7c2d4f" flood-opacity=".22"/></filter>
+    <linearGradient id="m" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e6f0d6"/><stop offset=".35" stop-color="#bcd89c"/><stop offset="1" stop-color="#93bd72"/></linearGradient>
+  </defs>
+  <g filter="url(#s)"><rect x="4" y="4" width="56" height="56" rx="18" fill="#fff"/></g>
+  <rect x="7" y="7" width="50" height="50" rx="15" fill="#ffe4ec"/>
+  <!-- paille -->
+  <path d="M35 21 L41 7.5" stroke="#ec6a91" stroke-width="3.6" stroke-linecap="round"/>
+  <!-- gobelet -->
+  <path d="M20 23 H44 L41.2 51 Q41 53.5 38.5 53.5 H25.5 Q23 53.5 22.8 51 Z" fill="url(#m)"/>
+  <path d="M24 27 L25.5 49" stroke="#fff" stroke-width="2" stroke-linecap="round" opacity=".55"/>
+  <!-- couvercle -->
+  <rect x="17.5" y="19" width="29" height="5.5" rx="2.75" fill="#fff"/>
+  <!-- étiquette -->
+  <circle cx="32" cy="38" r="8.2" fill="#ffd3df" stroke="#fff" stroke-width="1.6"/>
+  <text x="32" y="42.2" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="12" fill="#b8305f">E</text>
+</svg>

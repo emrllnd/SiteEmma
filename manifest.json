@@ -1,0 +1,13 @@
+{
+  "name": "EMMA — Mon suivi bien-être",
+  "short_name": "EMMA",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbe9ec",
+  "theme_color": "#fbe9ec",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
