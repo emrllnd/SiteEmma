@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="EMMA">
+  <defs>
+    <filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="1.5" stdDeviation="1.4" flood-color="#7c2d4f" flood-opacity=".22"/></filter>
+    <linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f1e1d1"/><stop offset="1" stop-color="#dcc3aa"/></linearGradient>
+  </defs>
+  <g filter="url(#s)"><rect x="4" y="4" width="56" height="56" rx="18" fill="#fff"/></g>
+  <rect x="7" y="7" width="50" height="50" rx="15" fill="#ffe4ec"/>
+  <!-- marque-page -->
+  <path d="M38 50 V58 L40.5 55.6 L43 58 V50 Z" fill="#ec6a91"/>
+  <!-- carnet -->
+  <rect x="17" y="11" width="31" height="42" rx="3.5" fill="url(#c)"/>
+  <rect x="17" y="11" width="31" height="42" rx="3.5" fill="none" stroke="#fff" stroke-width="1.2" opacity=".7"/>
+  <!-- spirale -->
+  <g fill="none" stroke="#7c2d4f" stroke-width="1.5" stroke-linecap="round">
+    <path d="M14.5 16 H19.5 M14.5 21 H19.5 M14.5 26 H19.5 M14.5 31 H19.5 M14.5 36 H19.5 M14.5 41 H19.5 M14.5 46 H19.5"/>
+  </g>
+  <!-- étiquette -->
+  <rect x="23.5" y="21" width="19" height="11" rx="2" fill="#fff"/>
+  <text x="33" y="28.6" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="5.6" letter-spacing=".8" fill="#7c2d4f">EMMA</text>
+  <!-- cœur -->
+  <path d="M33 44.5 C27.5 40.8 28.4 36.6 31 36.8 C32 36.9 32.6 37.6 33 38.3 C33.4 37.6 34 36.9 35 36.8 C37.6 36.6 38.5 40.8 33 44.5 Z" fill="#ec6a91"/>
+</svg>

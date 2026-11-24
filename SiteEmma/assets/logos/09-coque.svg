@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="EMMA">
+  <defs>
+    <filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="1.5" stdDeviation="1.4" flood-color="#7c2d4f" flood-opacity=".22"/></filter>
+  </defs>
+  <g filter="url(#s)"><rect x="4" y="4" width="56" height="56" rx="18" fill="#fff"/></g>
+  <rect x="7" y="7" width="50" height="50" rx="15" fill="#fdeef2"/>
+  <!-- coque ondulée -->
+  <g fill="#f5a3bc">
+    <rect x="18" y="10" width="28" height="44" rx="8"/>
+    <circle cx="18.6" cy="17" r="3.4"/><circle cx="18.6" cy="24.5" r="3.4"/><circle cx="18.6" cy="32" r="3.4"/><circle cx="18.6" cy="39.5" r="3.4"/><circle cx="18.6" cy="47" r="3.4"/>
+    <circle cx="45.4" cy="17" r="3.4"/><circle cx="45.4" cy="24.5" r="3.4"/><circle cx="45.4" cy="32" r="3.4"/><circle cx="45.4" cy="39.5" r="3.4"/><circle cx="45.4" cy="47" r="3.4"/>
+    <circle cx="25" cy="10.6" r="3.4"/><circle cx="32" cy="10.6" r="3.4"/><circle cx="39" cy="10.6" r="3.4"/>
+    <circle cx="25" cy="53.4" r="3.4"/><circle cx="32" cy="53.4" r="3.4"/><circle cx="39" cy="53.4" r="3.4"/>
+  </g>
+  <rect x="21.5" y="13.5" width="21" height="37" rx="6" fill="#ffd3df"/>
+  <!-- appareil photo -->
+  <rect x="23.5" y="15.5" width="9.5" height="9.5" rx="3" fill="#fff"/>
+  <circle cx="26.3" cy="18.3" r="1.7" fill="#7c2d4f"/><circle cx="30.2" cy="18.3" r="1.7" fill="#7c2d4f"/><circle cx="26.3" cy="22.2" r="1.7" fill="#7c2d4f"/>
+  <text x="32" y="41.5" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="12" fill="#d94677">E</text>
+</svg>
